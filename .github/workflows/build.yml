@@ -25,7 +25,7 @@ jobs:
       with:
         arch: arm64
         mtk_arch: mt6768
-        compiler: aosp-clang/android-10.0.0_r3/clang-r353983c
+        compiler: aosp-clang/android10-release/clang-r353983c
         defconfig: k69v1_64_defconfig
         image: Image.gz-dtb
 
